@@ -1,2 +1,3 @@
 youtube_comments.csv
 __pycache__/crawl_data.cpython-312.pyc
+.env
